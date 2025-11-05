@@ -1,0 +1,7 @@
+Confusion Matrix
+[[88 19]
+ [19 28]]
+Accuracy Score: 0.7532467532467533
+Reacal Score: 0.5957446808510638
+F1 Score: 0.5957446808510638
+Precision Score: 0.5957446808510638

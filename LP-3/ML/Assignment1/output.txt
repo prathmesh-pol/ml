@@ -1,0 +1,9 @@
+Linear Regression
+print(f"Mean absolute error {mean_absolute_error(y_test, y_pred)}")
+print(f"Mean squared error {mean_squared_error(y_test, y_pred)}")
+print(f"Root mean squared error {r2_score(y_test, y_pred)}")
+
+Random Forest
+Mean absolute error 2.7397059010068108
+Mean squared error 37.97442211808514
+Root mean squared error 0.6307133737759806

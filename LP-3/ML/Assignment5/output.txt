@@ -1,0 +1,7 @@
+	Recency	Frequency	MonetaryValue	Cluster
+CUSTOMERNAME				
+AV Stores, Co.	196	51	157807.81	4
+Alpha Cognac	65	20	70488.44	2
+Amica Models & Co.	265	26	94117.26	2
+Anna's Decorations, Ltd	84	46	153996.13	4
+Atelier graphique	188	7	24179.96	1

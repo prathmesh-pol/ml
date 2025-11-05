@@ -1,0 +1,4 @@
+--- Model Comparison ---
+KNN Accuracy: 0.9861
+SVM Accuracy: 0.9861
+Both performed equally.
